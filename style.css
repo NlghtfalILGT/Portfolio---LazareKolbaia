@@ -1,0 +1,162 @@
+body{
+    background-color:#070A17;
+}
+
+.header{
+     width: 1520px;
+     background-color:#0C1127;
+     height: 60px;
+}
+
+.lazare{
+    list-style: none;
+    color:#5E7CFF;
+    font-family: 'Poppins', sans-serif;
+}
+
+/**poppins**
+font-family: 'Poppins', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Poppins', sans-serif;
+**/
+
+.lazare{
+    margin-left: 30px;
+    font-size: 25px;
+    margin-top: -20px;
+}
+
+.liststyle{
+    color:  white;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+.liststyle:hover{
+   color: #5E7CFF;
+   cursor: pointer;
+   transition: 0.5s;
+}
+
+.navigation{
+    list-style: none;
+    float: left;
+    padding: 15px;
+}
+
+li{
+    float: left;
+    padding: 20px;
+}
+
+.contl{
+    margin-left: 900px;
+    margin-top: -80px;
+}
+
+#first{
+    color: #5E7CFF;
+}
+
+.logos{
+    margin-top: -30px;
+    margin-left: 70px;
+}
+
+#second{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.hello{
+    margin-left: -520px;
+}
+
+.card1{
+    width: 350px;
+    height: 12
+    5px;
+    background-color: #181C3D;
+}
+
+.lorem1{
+    font-size: 20px;
+}
+
+.left-container{
+    display: flex;
+    padding: 0px 500px;
+    margin: 10 px;
+}
+
+.card2{
+    width: 350px;
+     margin-left:20px;
+    background-color: #181C3D;
+}
+
+#about{
+    color: #5E7CFF;
+    float: left;  
+}
+
+.cont132{
+    float: left;
+}
+
+.card2:hover{
+    cursor: pointer;
+    
+}
+
+.continputs{
+    margin-left:450px;
+}
+
+.name{
+    width: 600px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: #0C1127;
+    color: #5E7CFF;
+    outline: none;
+    font-size: 19px;
+}
+
+.email{
+    width: 600px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: #0C1127;
+    color: #5E7CFF;
+    outline: none;
+    font-size: 19px;  
+}
+
+.message{
+    width: 600px;
+    height: 140px;
+    background-color: #0C1127;
+    outline: none;
+    font-size: 19px; 
+    color: #5E7CFF;
+    border: none;
+}
+
+.sent-btn{
+    width: 400px;
+    height: 40px;
+    background-color: #0C1127;
+    border: none;
+    color: #5E7CFF;
+    font-size: 30px;
+    border-radius: 15px;
+}
+
+.sent-btn:hover{
+    cursor: pointer;
+}
